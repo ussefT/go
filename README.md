@@ -1,10 +1,10 @@
 # Go
 
-- [types]()
-- [array]()
-- [fmt]()
-- [strings]()
-- [numeric]()
+- [types](https://github.com/ussefT/go/tree/main?tab=readme-ov-file#types)
+- [array](https://github.com/ussefT/go/tree/main?tab=readme-ov-file#array)
+- [fmt](https://github.com/ussefT/go/tree/main?tab=readme-ov-file#fmt)
+- [strings](https://github.com/ussefT/go/tree/main?tab=readme-ov-file#strings)
+- [numeric](https://github.com/ussefT/go/tree/main?tab=readme-ov-file#numeric)
 
 ---
 ## types
