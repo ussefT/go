@@ -4,6 +4,7 @@
 - [array]()
 - [fmt]()
 - [strings]()
+- [numeric]()
 
 ---
 ## types
@@ -78,6 +79,7 @@ example
 ---
 ## strings
 
+Work on strings
 ```go
 import (
 	"fmt"
@@ -100,4 +102,29 @@ import (
 	split:=strings.Split(greeting," ")
 
 	fmt.Println(split)
+```
+
+Sort ,Search in string
+
+```go
+names:=[]string{"foo","boo","goo"}
+sort.Strings(names)
+
+fmt.Println(names)
+
+sort.SearchStrings(names,"foo")
+```
+
+## numberic
+
+Sort, Seacrch
+
+```go
+num:=[]int{98,7,6,5,44,3,3,2,2,1,1,0}
+sort.Ints(num)
+fmt.Println(num)
+
+
+index:=sort.SearchInts(num,98)
+fmt.Println(index)
 ```
