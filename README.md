@@ -10,7 +10,7 @@
 ---
 ## install
 
-Download and install file.In terminal 
+Download and install file.In terminal
 ```bash
 go version
 ```
